@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class MyColorScript : MonoBehaviour
-{
+{ 
     public GameObject plane;
     private MeshRenderer myRenderer;
     
